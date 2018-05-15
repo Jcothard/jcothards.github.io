@@ -1,0 +1,18 @@
+body{
+	background-image: url(rawpixel-653764-unsplash.jpg);
+	background-size: cover;
+}
+h1{
+	font-family: 'Merriweather', serif;
+	size: 10px;
+	color: white;
+	display:flex;
+	justify-content: center;
+	margin-top: 100px;
+	margin-bottom:30px;
+}
+footer {
+	display: flex;
+	justify-content: center;
+}
+
